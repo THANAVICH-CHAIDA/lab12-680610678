@@ -31,7 +31,7 @@ export default function TodolistPage() {
       <div className="row h-100">
         {/* ── 2) Sidebar (รับ props userName, type) ─────────────────────────── */}
         <div className="col-2 p-0">
-          <Sidebar username="Thanavich" type="admin" />
+          <Sidebar username="Thanavich" type="Student" />
         </div>
 
         <div className="col-10 p-0 d-flex flex-column min-vh-100">
